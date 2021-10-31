@@ -1,0 +1,23 @@
+{
+  "name": "bykswzeep",
+  "version": "1.0.0",
+  "description": "convert normal text to byksw languange",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eilaluth/byksw.git"
+  },
+  "keywords": [
+    "Seep/Zeep",
+    "Bkysw"
+  ],
+  "author": "Eilaluth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eilaluth/byksw/issues"
+  },
+  "homepage": "https://github.com/Eilaluth/byksw#readme"
+}
