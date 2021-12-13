@@ -1,21 +1,13 @@
 # byksw
-Seep/Zeeplogy Language Converter Library
+Simple javascript library untuk merubah bahasa indonesia menjadi bahasa byksw ala seep/zeeblogy science
 
+Cara install
 ```
 npm i byksw
 ```
-
-ES6
-```typescript
-import { byksw } from "byksw";
-
-console.log(byksw('dengan menyebut nama tuhan yang maha pengasih lagi maha penyayang'))
-// result : dwngwn mwnywbwt nwmw twhwn ywng mwhw pwngwsyh lwgy mwhw pwnywywng
-```
-
-CJS
+Cara pakek
 ```javascript
-const { byksw } = require("byksw");
+const byksw = require("byksw");
 
 console.log(byksw('dengan menyebut nama tuhan yang maha pengasih lagi maha penyayang'))
 // result : dwngwn mwnywbwt nwmw twhwn ywng mwhw pwngwsyh lwgy mwhw pwnywywng

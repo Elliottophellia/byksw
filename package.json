@@ -1,11 +1,8 @@
 {
   "name": "byksw",
-  "version": "1.0.0",
-  "description": "convert normal text to byksw languange",
-  "main": "index.js",
-  "scripts": {
-    "test": "node index.js"
-  },
+  "version": "1.0.1",
+  "description": "ubah bahasa indonesia menjadi bahasa byksw ala seep/zeeb",
+  "main": "./lib/byksw.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Eilaluth/byksw.git"
